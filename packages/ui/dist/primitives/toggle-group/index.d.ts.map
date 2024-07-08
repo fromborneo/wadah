@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/primitives/toggle-group/index.tsx"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAA;AAE9B,OAAO,KAAK,oBAAoB,MAAM,8BAA8B,CAAA;AACpE,OAAO,EAAE,KAAK,YAAY,EAAE,MAAM,0BAA0B,CAAA;AAa5D,QAAA,MAAM,WAAW;;;uHAcf,CAAA;AAIF,QAAA,MAAM,eAAe;;;yHAsBnB,CAAA;AAIF,OAAO,EAAE,WAAW,EAAE,eAAe,EAAE,CAAA"}

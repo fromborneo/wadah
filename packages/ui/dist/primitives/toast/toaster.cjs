@@ -1,0 +1,3 @@
+"use client";
+"use strict";Object.defineProperty(exports,Symbol.toStringTag,{value:"Module"});const s=require("react/jsx-runtime"),e=require("./toast.cjs"),c=require("./use-toast.cjs");function u(){const{toasts:r}=c.useToast();return s.jsxs(e.ToastProvider,{children:[r.map(function({id:a,title:t,description:o,action:i,...n}){return s.jsxs(e.Toast,{...n,children:[s.jsxs("div",{className:"grid gap-1",children:[t&&s.jsx(e.ToastTitle,{children:t}),o&&s.jsx(e.ToastDescription,{children:o})]}),i,s.jsx(e.ToastClose,{})]},a)}),s.jsx(e.ToastViewport,{})]})}exports.Toaster=u;
+//# sourceMappingURL=toaster.cjs.map

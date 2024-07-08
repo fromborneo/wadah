@@ -1,0 +1,1 @@
+{"version":3,"file":"filesystem.js","sourceRoot":"","sources":["../src/filesystem.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,IAAI,EAAE,MAAM,MAAM,CAAA;AAEpC;;;;;GAKG;AACH,MAAM,UAAU,eAAe,CAAC,KAAa;IAC3C,OAAO,OAAO,CAAC,OAAO,CAAC,OAAO,CAAC,IAAI,CAAC,KAAK,EAAE,cAAc,CAAC,CAAC,CAAC,CAAA;AAC9D,CAAC"}
